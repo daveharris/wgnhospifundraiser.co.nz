@@ -3030,7 +3030,7 @@
 	#banner {
 		background-attachment: scroll,							fixed;
 		background-color: #666;
-		background-image: url("images/overlay.png"), url("../../images/banner.jpg");
+		background-image: url("images/overlay.png"), url("https://images.unsplash.com/photo-1470116109808-c71d8bd6f4a7?dpr=1&auto=format&fit=crop&w=2560&h=1440&q=80&cs=tinysrgb");
 		background-position: top left,						center center;
 		background-repeat: repeat,							no-repeat;
 		background-size: auto,							cover;
