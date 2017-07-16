@@ -1,0 +1,1 @@
+# wgnhospifundraiser.co.nz
