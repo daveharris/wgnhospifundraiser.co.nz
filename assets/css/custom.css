@@ -1,0 +1,19 @@
+/*
+  Custom styles for Wellington Hospital Fundraiser
+*/
+
+#banner a.icon {
+  color: white;
+  font-size: 3.5em;
+  letter-spacing: 1em;
+}
+
+/* Mobile */
+@media screen and (max-width: 736px) {
+
+  #banner a.icon {
+    font-size: 2.5em;
+    letter-spacing: 0.5em;
+  }
+
+}
