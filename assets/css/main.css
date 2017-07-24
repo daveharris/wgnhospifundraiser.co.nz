@@ -3027,7 +3027,7 @@
 	#banner {
 		background-attachment: scroll,							fixed;
 		background-color: #666;
-		background-image: url("images/overlay.png"), url("https://lh3.googleusercontent.com/MZZIMKAJfUfSXNUDGYM_f3HddXFkNdSDU9zcv7i5TvuOfD2UyIpYTRSd3k6cdYW6ZW5iZu9O7Og5KIvx2cavKtBfoLq6lT-UIcIgS4M");
+		background-image: url("images/overlay.png"), url("http://wgnhospifundraiser.imgix.net/banner.jpg");
 		background-position: top left,						center center;
 		background-repeat: repeat,							no-repeat;
 		background-size: auto,							cover;
