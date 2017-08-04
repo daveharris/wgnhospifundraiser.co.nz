@@ -17,3 +17,15 @@
   }
 
 }
+
+.row.full-width > div {
+  padding: 0 2em 0 2em;
+}
+
+.cookietime {
+  margin-top: 1em;
+}
+
+.liquorland {
+  margin-top: 4em;
+}
